@@ -1,0 +1,27 @@
+Prerequisites:
+
+  - Text Editor (VS Code, Atom, Sublime Text, Notepad++)
+  - Web Browser
+
+TODOs
+
+1. Build the Project
+  - Creating the Folder
+  - Adding Files
+  - Connecting Files
+
+2. Navbar
+  - 2 links and a name
+
+3. Portfolio item grid
+  - images
+  - titles
+  - description
+  - animations
+  - javascript
+
+4. About Page
+  - image
+  - split column layout
+  - content
+
